@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RajeshKumarMaurya
 - 👀 I’m interested in nature 
 - 🌱 I’m currently learning Spring MVC
-- 💞️ I’m looking to collaborate on practicing java and spring related projects.
+- 💞️ I’m looking to collaborate on practise java and spring related projects.
 - 📫 How to reach me @rajeshmaurya3315@gmail.com
 
 <!---
