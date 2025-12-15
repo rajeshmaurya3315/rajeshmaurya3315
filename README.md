@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RajeshKumarMaurya
-- 👀 I’m interested in Data Science Role
+- 👀 I’m interested in Business Analyst, Data Analytics, Data Science, and Implementation Consultant Role
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on practice AI and ML related projects.
 - 📫 How to reach me @rajeshmaurya3315@gmail.com
